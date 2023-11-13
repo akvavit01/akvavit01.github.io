@@ -22,9 +22,9 @@ title: Leonardi's Personal Website
 email: leochen123987@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Currently geared towards showcasing Leonardi's portfolio.
+domain: "akvavit01.github.io"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: 
+url: "https://akvavit01.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  akvavit01
 linkedin_username: leonardi-leonardi
 
